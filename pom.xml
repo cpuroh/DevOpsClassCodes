@@ -55,13 +55,13 @@
 
 
     <dependencies>
-<!--        <dependency>
+        <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-compatibility-server</artifactId>
             <version>${vaadin.version}</version>
         </dependency>
---><!--        <dependency>
---><!--            <groupId>com.vaadin</groupId>
+        <dependency>
+            <groupId>com.vaadin</groupId>
             <artifactId>vaadin-compatibility-shared</artifactId>
             <version>${vaadin.version}</version>
         </dependency>
@@ -75,7 +75,7 @@
             <artifactId>vaadin-themes</artifactId>
             <version>${vaadin.version}</version>
         </dependency>
- -->       <dependency>
+        <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <version>3.0.1</version>
